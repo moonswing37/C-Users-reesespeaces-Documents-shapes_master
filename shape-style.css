@@ -1,0 +1,53 @@
+.top{
+    color: white;
+    font-weight:bold;
+    font-size:70px; 
+background-color: gray;
+border-bottom: 10px solid black;
+padding:10px;
+}
+
+.bottom{
+    border-top:10px solid black;
+    padding:10px;
+    background-color: gray;
+    color: white;
+    font-weight:bold;
+    font-size:20px;
+}
+
+.middle-padding{
+    padding:200px;
+}
+
+.square { 
+    background-color: orange;
+    width: 250px;
+    height:250px;
+   margin: 150px
+ }
+
+ 
+.squareB { 
+    background-color: orange;
+    border: 10px solid blue;
+    width: 200px;
+    height:200px;
+    margin: 150px;
+ }
+ .circle { 
+    background-color:blue;
+    width: 250px;
+    height:250px;
+    border-radius: 50%;
+    margin: 150px;
+ }
+
+ .circleb { 
+    background-color:blue;
+    width: 250px;
+    height:250px;
+    border-radius: 50%  ;
+    border: 10px solid orange ;
+    margin: 150px;
+ }
